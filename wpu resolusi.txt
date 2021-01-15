@@ -1,0 +1,4 @@
+MOELATO RESOLUSI 
+- Konsisten membuat project 1x sebulan
+- Membuat platform untuk pengelolaan video 
+- Membuat forum diskusi
